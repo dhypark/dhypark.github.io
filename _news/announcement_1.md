@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-23
+date: 2025-02
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I received my Ph.D. from Pusan Natioanl University (PNU).
