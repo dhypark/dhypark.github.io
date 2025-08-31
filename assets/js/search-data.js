@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-received-my-ph-d-from-pusan-natioanl-university-pnu",
-          title: 'I received my Ph.D. from Pusan Natioanl University (PNU).',
+            },},{id: "news-i-received-my-ph-d-from-pnu",
+          title: 'I received my Ph.D. from PNU.',
           description: "",
           section: "News",},{id: "news-i-started-my-postdoctoral-research-at-pnu",
           title: 'I started my postdoctoral research at PNU.',
