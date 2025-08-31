@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2025-03
+date: 2025-03-01
+display_date: 2025-03
 inline: true
 related_posts: false
 ---
