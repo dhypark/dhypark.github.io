@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher at <a href='pusan.ac.kr'>PNU</a>.
+subtitle: Postdoctoral Researcher at <a href='https://pusan.ac.kr/'>PNU</a>.
 
 profile:
   align: right
