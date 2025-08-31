@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2025-02-01
-display_date: 2025-02
+date: 2025-02-28
 inline: true
 related_posts: false
 ---
 
-I received my Ph.D. from Pusan Natioanl University (PNU).
+I received my Ph.D. from PNU.
