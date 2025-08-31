@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher at <a href='https://pusan.ac.kr/'>PNU</a>.
+subtitle: Postdoctoral Researcher at <a href='https://pusan.ac.kr/'>Pusan National University (PNU)</a>, South Korea.
 
 profile:
   align: right
@@ -25,6 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Research Associate at Pusan National University, South Korea.
-
-I earned my Ph.D. degree from Pusan National University, South Korea.  My research primarily focuses on passive target detection utilizing ambient communication signals, wireless signal recognition, and mmWave-based human sensing.
+I earned my Ph.D. degree from PNU, South Korea.  My research primarily focuses on passive target detection utilizing ambient communication signals, wireless signal recognition, and mmWave-based human sensing.
