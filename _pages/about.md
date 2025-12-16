@@ -2,30 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher at <a href='https://pusan.ac.kr/'>Pusan National University (PNU)</a>, South Korea.
+subtitle: Postdoctoral Researcher at [Institute Name] # 여기에 소속을 적으세요
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Contact information:</p>
-    <p>dohyunpark22 [at] gmail.com</p>
+  image: prof_pic.jpg # assets/img/ 폴더에 사진을 넣고 파일명을 맞추세요
+  image_circular: false # 원형 사진을 원하면 true로 변경
+  address: >
+    <p>Room 123, Building A</p>
+    <p>University/Institute Name</p>
+    <p>City, Country</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: true  # 뉴스 기능을 끄고 싶으면 false
+selected_papers: true # 주요 논문(selected=true)을 메인에 보여주려면 true
+social: true  # 이메일 등 아이콘 표시
 ---
 
-I received my Ph.D. degree from PNU, South Korea, where I was advised by <a href='https://sites.google.com/view/pnu-cspl/'>Prof. Hyoung-Nam Kim</a>. My research focuses on the intersection of wireless and radar signal processing and machine learning. I develop machine learning based RF sensing systems that transform raw spectrum measurements into reliable insights about the physical world, enabling applications such as object detection, spectrum awareness, and human sensing.
+Write your biography here. 
 
-I aim to create sensing systems that are robust, efficient, and scalable in real-world conditions, operating reliably under high noise and interference. By integrating model based principles with data driven approaches and by advancing from algorithms to deployable systems, my vision is to make wireless sensing a trustworthy bridge between the digital and physical worlds.
+I am currently a Postdoctoral Researcher at [Institute Name]. My research interests include [Research Area 1], [Research Area 2], and [Research Area 3]. 
+
+Previously, I received my Ph.D. in [Major] from [University Name] in 20XX.
