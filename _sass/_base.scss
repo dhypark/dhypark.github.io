@@ -1423,3 +1423,33 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+// ------------------------------------------------------------------
+// [Custom] Publication 배지(Top Conf.) 스타일 꾸미기
+// ------------------------------------------------------------------
+
+// abbr 태그가 있는 배지를 파란색 박스로 만듭니다.
+abbr.badge {
+  background-color: #007bff !important; /* 파란색 배경 */
+  color: white !important;              /* 글씨는 흰색 */
+  padding: 0.3rem 0.5rem;               /* 안쪽 여백을 줘서 통통하게 */
+  border-radius: 4px;                   /* 모서리를 살짝 둥글게 */
+  border: none !important;              /* 기존 테두리 제거 */
+  font-weight: bold;                    /* 글씨 굵게 */
+  font-size: 0.75rem;                   /* 글씨 크기 조정 */
+  vertical-align: middle;               /* 텍스트 높이 맞추기 */
+  margin-left: 5px;                     /* 제목과의 간격 */
+  text-decoration: none;                /* 밑줄 제거 */
+  
+  // 마우스를 올렸을 때 색 변화 (선택 사항)
+  &:hover {
+    background-color: #0056b3 !important;
+    color: white !important;
+    text-decoration: none;
+  }
+}
+
+// 만약 배지가 너무 위아래로 붙어있다면 리스트 간격을 좀 벌립니다.
+.publications ol.bibliography li {
+  margin-bottom: 2rem; /* 논문 사이 간격 넓히기 */
+}
