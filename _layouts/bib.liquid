@@ -2,6 +2,7 @@
 ---
 <div class="row">
   {% if site.enable_publication_thumbnails %}
+{% comment %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
         {%- if site.data.venues[entry.abbr] -%}
@@ -43,6 +44,7 @@
         {% endif %}
       {% endif %}
     </div>
+{% endcomment %}
   {% endif %}
 
   <!-- Entry bib key -->
